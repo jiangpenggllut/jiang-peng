@@ -28,5 +28,3 @@ Patents
 [13] Jiang Peng, Cai Xiaodong. Method and system for training semantic parsing model [P]. Chinese Patent: CN117591545A, 2024.02.23 (Published)
 [14] Jiang Peng, Cai Xiaodong, Ma Weikao, Wang Yucui. Method and device for sentence semantic matching with key semantic preservation [P]. Chinese Patent: 2025102683379, 2025.03.07 (Published)
 [15] Jiang Peng, Cai Xiaodong, Shen Linjie, Liu Jia. Method and device for sentence semantic matching with interactive main idea [P]. Chinese Patent: 2025102683400, 2025.03.07 (Published)
-<img width="468" height="639" alt="image" src="https://github.com/user-attachments/assets/12dd504d-db6a-4da0-8c4f-6b3fbfcbb43d" />
-
