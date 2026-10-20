@@ -170,7 +170,7 @@ The URL for the RTE dataset is https://huggingface.co/datasets/glue (accessed on
     ```
 
   PYTHONPATH=. python -u src/main.py \
-        -task mrpc \
+        -task rte \
         -model ./bert-base-uncased \
         -num_labels 2 \
         -batch_size 16 \
@@ -196,7 +196,7 @@ The URL for the RTE dataset is https://huggingface.co/datasets/glue (accessed on
    ```
 
   PYTHONPATH=. python -u src/main.py \
-        -task mrpc \
+        -task scitail \
         -model ./bert-base-uncased \
         -num_labels 2 \
         -batch_size 16 \
