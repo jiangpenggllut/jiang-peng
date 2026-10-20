@@ -132,7 +132,7 @@ The URL for the RTE dataset is https://huggingface.co/datasets/glue (accessed on
         -batch_size 16 \
         -accum_count 1 \
         -test_batch_size 128 \
-        >> logs/mrpc.bert-base-uncased.baseline.log
+        >> logs/RTE.bert-base-uncased.baseline.log
 
     ```
 
